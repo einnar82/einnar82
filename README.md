@@ -22,8 +22,9 @@ I lead engineering teams in building robust, scalable systems that handle missio
 ## Core Expertise
 
 ### Software Development
-- **Backend Development**: Laravel, PHP, Python, Node.js, TypeScript
+- **Backend Development**: Laravel, PHP, Python, Node.js, TypeScript, Go
 - **Node.js Frameworks**: Express, Fastify, NestJS
+- **Go Frameworks**: Gin
 - **System Integration**: MS Dynamics 365, Payment Gateways, ERP Systems (Zoho Books)
 - **API Design**: RESTful services, webhook integrations, third-party API orchestration
 - **Enterprise Applications**: Complex business logic, multi-tenant systems, compliance-driven architecture
@@ -48,8 +49,8 @@ I lead engineering teams in building robust, scalable systems that handle missio
 
 ## Technology Stack
 
-**Languages**: PHP, Python, JavaScript, TypeScript, SQL  
-**Frameworks**: Laravel, Node.js (Express, Fastify, NestJS), Apache Spark  
+**Languages**: PHP, Python, JavaScript, TypeScript, Go, SQL  
+**Frameworks**: Laravel, Node.js (Express, Fastify, NestJS), Go (Gin), Apache Spark  
 **Data**: Delta Lake, MySQL, PostgreSQL, Apache Iceberg (evaluating)  
 **Cloud**: Alibaba Cloud, Google Cloud (GCP), AWS, Docker, CI/CD pipelines  
 **DevOps**: nginx optimization, system architecture, air-gapped deployments  
