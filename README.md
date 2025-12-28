@@ -2,7 +2,7 @@
 
 **Head of Engineering** | Software Development • Data Engineering • Data Analytics
 
-Experienced technology leader managing large-scale data operations and engineering teams in the financial services sector. I bridge the gap between technical execution and business outcomes, leading initiatives that process 566+ million records and 1.4TB+ of data monthly.
+Experienced technology leader managing large-scale data operations and engineering teams in the financial services sector. I bridge the gap between technical execution and business outcomes, having led initiatives that process 566+ million records and 1.4TB+ of data monthly.
 
 ---
 
@@ -12,7 +12,7 @@ I lead engineering teams in building robust, scalable systems that handle missio
 
 ### Leadership & Team Management
 - **Head of Engineering** at a credit bureau in the Philippines
-- Managing **9 Laravel developers** across **16 active projects**
+- Previously managed **9 Laravel developers** across **16 active projects**
 - Driving technical strategy and architecture decisions for enterprise-scale systems
 - Building high-performing teams through mentorship and strategic technical guidance
 - Implementing modern development practices and AI-assisted workflows
