@@ -80,4 +80,4 @@ I'm always interested in discussing:
 
 *Building systems that scale, leading teams that deliver.*
 
-You can check my profile at [LinkedIn](https://www.linkedin.com/in/rannieollit/) and [my personal website](https://rannieollit.com). 🌐
+You can check my profile at [LinkedIn](https://www.linkedin.com/in/rannieollit/) and [my personal website](https://rannieollit.com).
