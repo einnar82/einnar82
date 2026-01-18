@@ -11,7 +11,7 @@ Experienced technology leader managing large-scale data operations and engineeri
 I lead engineering teams in building robust, scalable systems that handle mission-critical data operations in highly regulated environments. My focus is on delivering reliable solutions that meet strict compliance requirements while maintaining high performance standards.
 
 ### Leadership & Team Management
-- **Head of Engineering** at a credit bureau in the Philippines
+- **Head of Engineering** at a credit bureau.
 - Previously managed **9 Laravel developers** across **16 active projects**
 - Driving technical strategy and architecture decisions for enterprise-scale systems
 - Building high-performing teams through mentorship and strategic technical guidance
