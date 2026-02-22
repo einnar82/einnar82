@@ -1,84 +1,104 @@
 # Hi, I'm Rannie
 
-**Head of Engineering** | Software Development • Data Engineering • Data Analytics
+**Hands-on Head of Engineering** | **DevSecOps** | **Software Architect** | Platform, Data & Secure Delivery
 
-Experienced technology leader managing large-scale data operations and engineering teams in the financial services sector. I bridge the gap between technical execution and business outcomes, having led initiatives that process 566+ million records and 1.4TB+ of data monthly.
+I lead engineering teams and build systems in regulated financial services—combining technical leadership, software architecture, and hands-on implementation when needed. My work focuses on platform reliability, secure delivery, and scalable data systems that support mission-critical operations.
+
+I’ve led teams of up to **9 engineers** across **16 active projects**, helping deliver platforms that process **566M+ records** and **1.4TB+ of data monthly**.
 
 ---
 
 ## What I Do
 
-I lead engineering teams in building robust, scalable systems that handle mission-critical data operations in highly regulated environments. My focus is on delivering reliable solutions that meet strict compliance requirements while maintaining high performance standards.
+I operate at multiple levels—from engineering strategy and delivery governance to architecture, coding, and production reliability. I work in high-stakes, compliance-driven environments where systems must be scalable, observable, secure, and audit-ready.
 
-### Leadership & Team Management
-- **Head of Engineering** at a credit bureau.
-- Previously managed **9 Laravel developers** across **16 active projects**
-- Driving technical strategy and architecture decisions for enterprise-scale systems
-- Building high-performing teams through mentorship and strategic technical guidance
-- Implementing modern development practices and AI-assisted workflows
+### Leadership & Engineering Execution
+- **Hands-on Head of Engineering** in a regulated financial services environment
+- Led teams of up to **9 developers** across **16 active projects**
+- Drive technical strategy, architecture decisions, and execution quality
+- Stay involved in implementation when needed (architecture, debugging, high-impact technical work)
+- Build engineering discipline through delivery standards, CI/CD practices, and cross-functional coordination
+- Use structured leadership operating cadences (including **EOS Level 10 / L10-style accountability and issue-solving**)
 
 ---
 
 ## Core Expertise
 
-### Software Development
-- **Backend Development**: Laravel, PHP, Python, Node.js, TypeScript, Go
-- **Node.js Frameworks**: Express, Fastify, NestJS
-- **Go Frameworks**: Gin
-- **System Integration**: MS Dynamics 365, Payment Gateways, ERP Systems (Zoho Books)
-- **API Design**: RESTful services, webhook integrations, third-party API orchestration
-- **Enterprise Applications**: Complex business logic, multi-tenant systems, compliance-driven architecture
-- **AI Integration**: Exploring RAG systems, code review automation with Ollama/Gemma 2B
+### Engineering Leadership, Architecture & Platform Reliability
+- Engineering leadership in regulated / compliance-heavy environments
+- Software architecture for enterprise systems and data platforms
+- Platform reliability, operational resilience, and production readiness
+- Technical decision-making, system design, and architecture governance
+- Delivery governance, release controls, and cross-functional execution
 
-### Data Engineering
-- **Big Data Processing**: Apache Spark, Delta Lake, medallion architecture (bronze/silver/gold layers)
-- **ETL Pipeline Design**: Processing 566+ million records monthly with comprehensive audit trails
-- **Data Lake Architecture**: Implementing modern data platforms on Alibaba Cloud (air-gapped environments)
-- **Change Data Capture**: SCD Type 2 implementations for historical tracking
-- **Data Quality**: Validation frameworks, data reconciliation, error handling at scale
-- **Technologies**: PySpark, Pandas, Polars, distributed computing across multiple VMs
+### DevOps / DevSecOps / Secure Delivery
+- CI/CD pipeline design and release automation (GitLab CI/CD, GitHub Actions)
+- DevSecOps practices: security scanning, code scanning, dependency/vulnerability checks
+- Observability and monitoring (CloudWatch, Datadog, Grafana, Sentry)
+- Secure deployment controls and release governance
+- Audit readiness: control evidence preparation, remediation tracking, and delivery process alignment for external audits
 
-### Data Analytics
-- **Credit Bureau Analytics**: Large-scale credit data processing and reporting
-- **Business Intelligence**: Transforming raw data into actionable insights
-- **Data Modeling**: Dimensional modeling, data warehouse design patterns
-- **Analytics Infrastructure**: Building silver/gold layer transformations for business consumption
-- **Performance Optimization**: Query tuning, data partitioning strategies, caching mechanisms
+### Data Platform & ETL Engineering
+- Medallion architecture (**bronze / silver / gold**) and modern data lake design
+- Large-scale ETL pipelines with audit trails, validation frameworks, and SCD Type 2 tracking
+- **Golang ETL pipelines** (including `parquet-go` for Parquet writing) and Python-based data workflows
+- High-volume querying / validation / transformation using **DuckDB, Polars, Pandas, and PySpark**
+- Data quality controls, reconciliation, and error handling at scale
+- Air-gapped and regulated deployment environments
+
+### Software Engineering & System Integration (Hands-on)
+- Backend/API development: PHP, Python, Node.js, TypeScript, Go
+- Frameworks: Laravel, Express, Fastify, NestJS, Gin
+- Enterprise integrations: payment gateways, ERP/accounting platforms, third-party APIs
+- Multi-tenant and compliance-driven application design
+- API orchestration, webhooks, and system interoperability
 
 ---
 
 ## Technology Stack
 
-**Languages**: PHP, Python, JavaScript, TypeScript, Go, SQL  
-**Frameworks**: Laravel, Node.js (Express, Fastify, NestJS), Go (Gin), Apache Spark  
-**Data**: Delta Lake, MySQL, PostgreSQL, Apache Iceberg (evaluating)  
-**Cloud**: Alibaba Cloud, Google Cloud (GCP), AWS, Docker, CI/CD pipelines  
-**DevOps**: nginx optimization, system architecture, air-gapped deployments  
-**Tools**: Git, Docker, Ollama, ETL orchestration  
+**Cloud & Platform**: AWS, GCP, Alibaba Cloud, DigitalOcean, Vercel  
+**DevOps / SRE**: Docker, Kubernetes, Helm, Nginx, Apache, GitLab CI/CD, GitHub Actions, Bitbucket Pipelines, CloudWatch, Datadog, Grafana, Sentry  
+**DevSecOps / AppSec**: SAST, SonarQube, dependency/vulnerability scanning, CI/CD security gates, secure SDLC practices  
+**Data Engineering**: Apache Spark, Delta Lake, PySpark, DuckDB, Pandas, Polars, medallion architecture  
+**Languages**: Go, Python, PHP, JavaScript, TypeScript, SQL, Solidity  
+**Backend / Frameworks**: Laravel, Symfony, Node.js (Express/Fastify/NestJS), Go (Gin)  
+**Databases**: PostgreSQL, MySQL, MSSQL, MongoDB, DynamoDB  
 
 ---
 
 ## Recent Technical Highlights
 
-- **Large-Scale Data Lake Implementation**: Designed and deployed medallion architecture processing 1.4TB+ monthly using Apache Spark and Delta Lake
-- **Complex System Integrations**: Successfully integrated Malta Government Payment Gateway with Zoho Books and MS Dynamics 365
-- **ETL Pipeline Excellence**: Built comprehensive data pipelines with detailed audit trails, validation frameworks, and SCD Type 2 handling
-- **Performance at Scale**: Optimized parallel processing operations across multiple VMs for credit bureau data workflows
-- **AI Development Tools**: Exploring AI-powered code review assistants and RAG systems for team productivity
+- **Enterprise Data Lake (Medallion Architecture)**: Architected and delivered a bronze/silver/gold data platform processing **1.4TB+ monthly** with audit trails, validation frameworks, and SCD Type 2 tracking
+- **Large-Scale ETL Engineering**: Built ETL pipelines using **Golang** (`parquet-go`) and Python for ingestion, transformation, and data quality validation at scale
+- **Data Querying & Validation Workflows**: Leveraged **DuckDB, Polars, Pandas, and PySpark** for efficient querying, validation, transformation, and analytics across large datasets
+- **DevOps / DevSecOps Enablement**: Implemented CI/CD, observability, release governance, and security controls to improve deployment reliability and secure delivery
+- **Audit-Ready Engineering Delivery**: Ensured engineering audit readiness through evidence preparation, control alignment, and remediation tracking that supported successful external audits
+
+---
+
+## What I’m Interested In
+
+- Platform engineering and production reliability
+- DevOps / DevSecOps and secure software delivery
+- Large-scale data engineering and data platform architecture
+- Fintech / regulated systems engineering
+- AI-assisted engineering workflows (practical, team-focused use cases)
 
 ---
 
 ## Let's Connect
 
-I'm always interested in discussing:
-- Large-scale data engineering challenges
-- Engineering leadership and team building
-- AI integration in development workflows
-- Fintech and regulatory compliance solutions
-- System architecture and optimization
+I’m always open to discussions around:
+- Engineering leadership (hands-on)
+- Software architecture and platform reliability
+- DevSecOps and audit-ready delivery
+- Data platforms, ETL, and large-scale processing
+- Fintech systems and compliance-driven engineering
 
 ---
 
-*Building systems that scale, leading teams that deliver.*
+*Building systems that scale. Leading teams that deliver. Staying hands-on where it matters.*
 
-You can check my profile at [LinkedIn](https://www.linkedin.com/in/rannieollit/) and [my personal website](https://rannieollit.com).
+- [LinkedIn](https://www.linkedin.com/in/rannieollit/)
+- [Personal Website](https://rannieollit.com)
